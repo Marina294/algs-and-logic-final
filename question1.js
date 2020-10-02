@@ -4,6 +4,8 @@
 
 const nameAndAge = function(name, age) {
     // your code here
+     txt = "${name} is ${age} years old!";
+    return txt;
 }
 
 
